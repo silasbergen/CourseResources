@@ -1,8 +1,8 @@
-**Instructions for Installing JMP from the Campus Network**
+### Instructions for Installing JMP from the Campus Network
 
 NOTE: YOU MUST BE CONNECTED TO THE CAMPUS NETWORK TO INSTALL PROGRAMS.
 
-**For PC users: **
+**For PC users:**
 
 1. From the "Metro" screen, type **Control Panel.**
 
@@ -14,7 +14,7 @@ NOTE: YOU MUST BE CONNECTED TO THE CAMPUS NETWORK TO INSTALL PROGRAMS.
 
 5. Wait while the program installs, which could take several minutes.
 
-**For Mac users: **
+**For Mac users:**
 
 1. Double click on your hard disk. This should be the icon on the upper
 right-hand corner of your desktop.
