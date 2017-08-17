@@ -1,2 +1,2 @@
-# DataSets
-Data sets for courses
+# Course Resources
+Files n stuff for courses
